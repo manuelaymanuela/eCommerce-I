@@ -71,3 +71,5 @@ gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.4'
 gem 'devise', '~> 4.4', '>= 4.4.3'
 #Carrierwave
 gem 'carrierwave', '~> 1.2', '>= 1.2.2'
+#Cancancan
+gem 'cancancan', '~> 2.2'
