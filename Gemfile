@@ -75,3 +75,8 @@ gem 'carrierwave', '~> 1.2', '>= 1.2.2'
 gem 'cancancan', '~> 2.2'
 #Hirb
 gem 'hirb', '~> 0.7.3'
+#Better_errors
+group :development do
+  gem "better_errors"
+  gem "binding_of_caller"
+end
