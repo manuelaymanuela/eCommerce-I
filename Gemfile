@@ -73,3 +73,5 @@ gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'carrierwave', '~> 1.2', '>= 1.2.2'
 #Cancancan
 gem 'cancancan', '~> 2.2'
+#Hirb
+gem 'hirb', '~> 0.7.3'
